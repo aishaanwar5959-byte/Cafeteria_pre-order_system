@@ -1,0 +1,6 @@
+{
+  "name": "Bahria University Cafeteria Pre-Order System",
+  "description": "Pre-order cafeteria meals, skip long lunch queues, and pick up when ready at Bahria University, Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
